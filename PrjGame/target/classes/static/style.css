@@ -1,0 +1,24 @@
+h2{
+    color: #6F1D1B;
+    
+}
+
+h1{
+    color: #BB9457;
+    background-color:#432818 ;
+}
+
+body{
+    background-color: #FFE6A7;
+}
+
+div{
+    background-color: #99582A;
+    color: #E5D4ED;
+}
+
+button{
+    color: #E5D4ED;
+    background-color: #432818;
+  border-radius: 4px;
+}
